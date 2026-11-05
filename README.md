@@ -1,5 +1,5 @@
 
-> Åpne denne siden på [https://sandegamer95.github.io/airbit-drone/](https://sandegamer95.github.io/airbit-drone/)
+> Åpne denne siden på (https://github.com/HiPixelPanda/airbit-drone)
 
 ## Bruk som utvidelse
 
